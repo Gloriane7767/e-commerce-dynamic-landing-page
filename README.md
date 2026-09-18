@@ -65,6 +65,6 @@ If you liked this project, don't forget to ⭐ star it and connect with me:
 
     LinkedIn: https://www.linkedin.com/in/gloryngumfoncha/
 
-    Portfolio: 
+    Portfolio: https://github.com/Gloriane7767/workshop-r-portfolio-project
 
     Email: gloriane7767@gmail.com.
