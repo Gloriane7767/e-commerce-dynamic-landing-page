@@ -63,8 +63,8 @@ Contributions, feedback, and suggestions are always welcome! Feel free to fork t
 
 If you liked this project, don't forget to ⭐ star it and connect with me:
 
-    Your LinkedIn
+    LinkedIn: https://www.linkedin.com/in/gloryngumfoncha/
 
-    Your Portfolio
+    Portfolio: 
 
-    Your Email
+    Email: gloriane7767@gmail.com.
